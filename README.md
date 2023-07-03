@@ -1,5 +1,5 @@
 # Face Recognition Attandence System  |  Software Studio Project
-* Original Documentation: [**SpreadSheet**](https://github.com/xkyleann/FaceRecognition_AttandanceSystem/files/11940750/SpreadSheet.pdf)
+* Original Documentation: [**SpreadSheet**](https://github.com/xkyleann/FaceRecognition_AttandanceSystem/files/11940778/SpreadSheet.pdf)
 * Project Documentation: [**Project Base**](https://drive.google.com/file/d/1H5VArBx0FVuSUGGIQmN7Hvn5l0OB6fka/view?usp=drive_link)
 
 | No. | Table of Contents                                                                   |
