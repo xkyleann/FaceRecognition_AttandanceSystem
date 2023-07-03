@@ -5,12 +5,12 @@
 | No. | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
 | 1   | [**Project Description**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/README.md)  
-| 2   | [**User Stories**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
-| 3   | [**Instruction**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/README.md)   |
+| 2   | [**User Stories**](https://github.com/xkyleann/FaceRecognition_AttandanceSystem/blob/main/User_Stories.md) |
+| 3   | [**Instruction**](https://github.com/xkyleann/FaceRecognition_AttandanceSystem/tree/main/FaceRecognitionAttandanceSysytem#readme)   |
 | 4   | [**Project Base**](https://drive.google.com/file/d/1H5VArBx0FVuSUGGIQmN7Hvn5l0OB6fka/view)   |
-| 5   | [**Project Repository**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognitionAttandanceSysytem)   |
-| 6   | [**Acceptance Criteria**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/Acceptance_Criteria.md)   |        
-| 7   | [**Graphics/Modes**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognitionAttandanceSysytem/graphics)   |
+| 5   | [**Project Repository**](https://github.com/xkyleann/FaceRecognition_AttandanceSystem/tree/main/FaceRecognitionAttandanceSysytem)   |
+| 6   | [**Acceptance Criteria**](https://github.com/xkyleann/FaceRecognition_AttandanceSystem/blob/main/Acceptance_Criteria.md)   |        
+| 7   | [**Graphics/Modes**](https://github.com/xkyleann/FaceRecognition_AttandanceSystem/tree/main/FaceRecognitionAttandanceSysytem/graphics)   |
 
 
 ## Project Description 
@@ -27,7 +27,7 @@ during the Covid-19 pandemic.
 ## Technological Stack 
 * Project Description 
 * OpenCV, which is a popular computer vision library in Python.
-* Firebase Real Time Database, which is a NoSQL cloud database.
+* Firebase Real-Time Database, which is a NoSQL cloud database.
 
 
 
