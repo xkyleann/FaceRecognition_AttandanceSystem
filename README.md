@@ -25,7 +25,6 @@ during the Covid-19 pandemic.
   - Since the live input of one’s face must match with the saved data, calling another person’s name for roll call (faking attendance) is impossible.
 
 ## Technological Stack 
-* Project Description 
 * OpenCV, which is a popular computer vision library in Python.
 * Firebase Real-Time Database, which is a NoSQL cloud database.
 
