@@ -14,7 +14,7 @@
 
 
 ## Project Description 
-* Facial Detection and Facial Recognition are computer technologies used to detect human faces in a digital image or video and identify or confirm a person's identity using  their face respectively. Today, these technologies are widely used. Such as face unlock used on smartphones and face detection in temperature scanner which was widespread 
+* Face Detection and Face Recognition are computer technologies used to detect human faces in a digital image or video and identify or confirm a person's identity using  their face respectively. Today, these technologies are widely used. Such as face unlock used on smartphones and face detection in temperature scanner which was widespread 
 during the Covid-19 pandemic.
 * Using facial recognition technology, decided to create a web application for the attendance system that can be used by educational Institutions, offices, organizationsor any place that requires security.
   - Efficient and time-saving compared to the traditional method that calls names one by one.
