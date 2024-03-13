@@ -106,5 +106,4 @@
 16. **As a User** I want to see what the current time is so that I know when my attendence is taken.
       - **Priority** --> 3
       - [x]  The clock should show what is the current date and time.
-      - [x]  The clock should be in a format "YYYY-MM-DD hh:mm:ss".
   
